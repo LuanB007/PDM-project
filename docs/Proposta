@@ -1,0 +1,19 @@
+Proposta de projeto: 
+
+Fazer um aplicativo que auxília a gestão financeira.
+
+- Será um aplicativo para ajudar na gestão das finanças de qualquer usuário.
+- Todo e qualquer usuário deverá fazer cadastro e login para ter acesso ao aplicativo.
+- O usuário poderá definir metas de gasto e de entradas mensais e o aplicativo irá mandar uma notificação quando estiver próximo ao valor definido.
+- O aplicativo terá algumas categorias já definidas, mas o usuário poderá criar a sua.
+- O usuário poderá dividir seus gastos e entradas em categorias e colocar o que foi gasto em cada categoria salvando o motivo, valor e data.
+- O usuário terá a liberdade de editar ou excluir uma categoria, saída ou entrada.
+- O usuário também poderá deletar sua conta, juntamente com os seus dados.
+- Ficará disponível para o usuário estatísticas como:
+    -- Saldo
+    -- Saída mensal
+    -- Entrada mensal
+    -- Balanço anual (Comparação da quantidade de entradas e saídas no ano)
+
+
+fonte: https://blog.mobills.com.br/melhores-aplicativos-para-controle-financeiro-pessoal/
